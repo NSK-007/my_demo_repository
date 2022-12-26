@@ -5,6 +5,11 @@ KHEER
 PASTA
 CHICKEN FRY
 
+PIZZA
+BURGER
+
 Thank you
+
+Done my changes
 
 Final Copy
